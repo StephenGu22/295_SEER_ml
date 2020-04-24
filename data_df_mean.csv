@@ -1,0 +1,678 @@
+Name,SAT Critical Reading mean score,SAT Math mean score,SAT Writing mean score,ACT Composite mean score
+The University of Alabama,555.0,570.0,540.0,26.0
+Auburn University,570.0,595.0,565.0,27.0
+Judson College,595.0,550.0,570.0,21.5
+University of Montevallo,554.0,507.5,510.0,23.0
+Samford University,565.0,560.0,555.0,25.5
+University of South Alabama,495.0,500.0,470.0,23.0
+Spring Hill College,540.0,540.0,545.0,24.0
+Alaska Pacific University,520.0,480.0,501.5,22.0
+University of Arizona,541.5,565.0,535.0,24.0
+Embry-Riddle Aeronautical University-Prescott,565.0,595.0,545.0,26.0
+Northern Arizona University,525.0,525.0,505.0,22.5
+Prescott College,560.0,510.0,535.0,26.0
+Lyon College,535.0,575.0,530.0,25.0
+University of Arkansas at Pine Bluff,380.0,420.5,385.0,17.5
+Arkansas State University-Main Campus,462.5,503.0,445.5,23.5
+Arkansas Tech University,430.0,465.0,430.0,21.5
+Central Baptist College,510.0,570.0,525.0,20.5
+John Brown University,570.0,572.5,550.0,25.0
+University of Arkansas-Fort Smith,445.0,525.0,470.0,22.0
+Biola University,560.0,561.5,555.0,24.5
+California Baptist University,490.0,490.0,480.0,21.0
+California Institute of Technology,760.0,785.0,755.0,34.0
+University of California-Berkeley,655.0,700.0,685.0,30.0
+University of California-Davis,575.0,620.0,590.0,26.0
+University of California-Irvine,530.0,600.0,555.0,24.0
+University of California-Los Angeles,620.0,680.0,650.0,28.0
+University of California-Riverside,525.0,565.0,535.0,22.5
+University of California-San Diego,605.0,675.0,635.0,28.0
+University of California-Santa Barbara,590.0,625.0,605.0,26.5
+University of California-Santa Cruz,540.0,555.0,540.0,23.0
+Chapman University,595.0,615.0,605.0,26.5
+Concordia University-Irvine,501.5,505.0,500.0,22.5
+San Diego Christian College,505.0,490.0,477.5,20.5
+Claremont McKenna College,695.0,715.0,705.0,31.0
+Dominican University of California,525.0,535.0,530.0,22.5
+Fresno Pacific University,495.0,495.0,489.0,20.0
+Harvey Mudd College,720.0,760.0,715.0,33.5
+University of La Verne,505.0,525.0,510.0,22.5
+La Sierra University,455.0,470.0,465.0,19.5
+Loyola Marymount University,590.0,600.0,600.0,27.0
+Menlo College,482.0,507.5,469.0,22.0
+Mills College,590.0,555.0,570.0,25.5
+Notre Dame de Namur University,490.0,495.0,470.0,20.0
+Occidental College,650.0,655.0,655.0,29.0
+Hope International University,485.5,474.0,476.5,19.5
+Pacific Union College,510.0,510.0,500.0,21.5
+University of the Pacific,570.0,605.0,570.0,25.5
+Pomona College,725.0,735.0,735.0,32.5
+University of San Francisco,580.0,590.0,580.0,25.0
+Scripps College,686.5,680.0,705.0,30.5
+Simpson University,515.0,515.0,505.0,22.0
+Saint Mary's College of California,550.0,560.0,560.0,24.5
+University of Southern California,670.0,710.0,695.0,31.0
+Thomas Aquinas College,645.0,605.0,630.0,27.0
+Westmont College,585.0,600.0,585.0,26.5
+Whittier College,515.0,525.0,525.0,22.5
+Adams State University,486.5,500.0,485.0,19.5
+Colorado College,660.0,665.0,660.0,29.5
+Colorado School of Mines,620.0,675.0,600.0,29.0
+University of Denver,600.0,610.0,575.0,27.5
+University of Bridgeport,455.0,465.0,455.0,20.0
+Central Connecticut State University,495.0,510.0,500.0,22.0
+Eastern Connecticut State University,505.0,510.0,515.0,22.0
+University of New Haven,505.0,525.0,510.0,22.5
+Quinnipiac University,535.0,560.0,545.0,24.5
+Southern Connecticut State University,460.0,460.0,475.0,19.5
+Trinity College,625.0,625.0,631.5,27.0
+Wesleyan University,690.0,700.0,700.0,31.0
+Yale University,750.0,750.0,755.0,33.5
+Delaware State University,445.0,450.0,430.0,17.5
+University of Delaware,575.0,595.0,575.0,26.5
+Wesley College,415.0,417.5,407.5,19.5
+American University,640.0,615.0,630.0,28.0
+George Washington University,645.0,650.0,655.0,29.0
+Howard University,540.0,535.0,530.0,23.5
+Barry University,470.0,470.0,450.0,19.0
+Lynn University,465.0,470.0,460.0,20.0
+University of Central Florida,585.0,595.0,560.0,25.5
+Edward Waters College,395.0,400.0,385.0,16.5
+Embry-Riddle Aeronautical University-Daytona Beach,530.0,575.0,520.0,24.0
+Florida Agricultural and Mechanical University,475.0,465.0,450.0,20.0
+Florida Atlantic University,520.0,525.0,515.0,22.0
+Flagler College-St Augustine,560.0,555.0,545.0,23.0
+Florida International University,580.0,570.0,560.0,25.5
+Florida Southern College,540.0,545.0,530.0,24.5
+Florida State University,600.0,595.0,600.0,27.0
+University of Florida,625.0,640.0,625.0,28.5
+University of Miami,650.0,675.0,640.0,30.0
+University of North Florida,580.0,575.0,545.0,24.5
+Rollins College,595.0,600.0,595.0,26.5
+University of South Florida-Main Campus,575.0,595.0,560.0,25.5
+St Thomas University,460.0,454.0,445.0,18.5
+Stetson University,590.0,580.0,560.0,25.5
+Southeastern University,490.0,470.0,475.0,20.0
+The University of Tampa,525.0,540.0,520.0,23.5
+The University of West Florida,515.0,510.0,490.0,23.5
+Berry College,585.0,580.0,565.0,26.5
+Brewton-Parker College,445.0,455.0,425.0,18.5
+Clayton  State University,480.0,465.0,460.0,19.5
+Columbus State University,495.0,485.0,475.0,21.0
+Covenant College,600.0,580.0,590.0,25.5
+Emory University,665.0,700.0,685.0,30.5
+Georgia Institute of Technology-Main Campus,650.0,710.0,655.0,30.0
+Georgia College and State University,570.0,570.0,555.0,24.0
+Georgia Southern University,555.0,555.0,530.0,23.0
+University of Georgia,610.0,625.0,620.0,28.0
+Kennesaw State University,545.0,535.0,520.0,22.5
+Morehouse College,500.0,505.0,490.0,20.5
+Oglethorpe University,575.0,560.0,550.0,24.5
+Paine College,385.0,390.0,370.0,16.0
+Savannah State University,425.0,420.0,410.0,17.5
+Shorter University,470.0,470.0,455.0,20.5
+Truett-McConnell College,480.0,465.0,460.0,19.5
+Valdosta State University,525.0,510.0,495.0,22.0
+Wesleyan College,510.0,495.0,480.0,19.5
+University of West Georgia,480.0,470.0,465.0,20.0
+University of Hawaii at Hilo,475.0,490.0,455.0,21.0
+University of Hawaii at Manoa,530.0,555.0,520.0,24.0
+University of Hawaii-West Oahu,440.0,450.0,425.0,19.0
+University of Idaho,535.0,535.0,515.0,23.0
+The College of Idaho,515.0,527.5,512.5,24.0
+Northwest Nazarene University,525.0,515.0,515.0,24.5
+Bradley University,570.0,570.0,555.0,25.5
+University of Chicago,760.0,755.0,740.0,33.5
+Eureka College,615.0,590.0,575.0,22.5
+Greenville College,491.0,555.0,485.0,22.0
+University of Illinois at Urbana-Champaign,615.0,740.0,625.0,28.5
+Illinois College,475.0,495.0,465.0,22.0
+Illinois Institute of Technology,580.0,690.0,580.0,27.5
+Lake Forest College,565.0,565.0,560.0,25.5
+Lewis University,495.0,535.0,490.0,23.5
+Loyola University Chicago,575.0,580.0,575.0,26.5
+McKendree University,485.0,510.0,475.0,22.5
+Millikin University,530.0,510.0,520.0,23.5
+Monmouth College,515.0,490.0,525.0,22.5
+Northern Illinois University,500.0,515.0,480.0,21.5
+Northwestern University,725.0,745.0,730.0,32.5
+Rockford University,458.0,559.0,469.0,22.0
+Roosevelt University,555.0,515.0,530.0,22.0
+Dominican University,515.0,550.0,530.0,22.0
+University of St Francis,545.0,530.0,530.0,23.0
+Saint Xavier University,512.5,492.5,497.5,21.5
+Southern Illinois University-Edwardsville,525.0,535.0,510.0,22.5
+Trinity Christian College,545.0,545.0,520.0,22.5
+Wheaton College,660.0,655.0,655.0,29.5
+Ball State University,540.0,530.0,525.0,22.0
+Bethel College-Indiana,495.0,520.0,490.0,23.5
+Butler University,580.0,585.0,575.0,27.5
+Calumet College of Saint Joseph,425.0,435.0,391.0,17.5
+DePauw University,585.0,615.0,580.0,27.0
+Earlham College,645.0,600.0,580.0,28.5
+University of Evansville,545.0,560.0,540.0,26.0
+Franklin College,500.0,510.0,485.0,21.5
+Hanover College,545.0,555.0,525.0,25.5
+Holy Cross College,495.0,480.0,460.0,22.5
+Huntington University,505.0,500.0,486.5,24.0
+Indiana University-Purdue University-Fort Wayne,490.0,500.0,475.0,21.5
+Indiana University-Purdue University-Indianapolis,495.0,510.0,485.0,22.0
+University of Indianapolis,500.0,510.0,490.0,22.0
+University of Southern Indiana,495.0,505.0,480.0,21.5
+Indiana State University,455.0,455.0,440.0,19.0
+Indiana University-Kokomo,475.0,470.0,460.0,20.5
+Indiana University-South Bend,480.0,480.0,450.0,20.5
+Indiana University-Bloomington,575.0,600.0,565.0,27.0
+Indiana University-Northwest,450.0,450.0,445.0,20.0
+Indiana University-Southeast,475.0,475.0,460.0,20.0
+Indiana University-East,465.0,460.0,445.0,20.5
+Manchester University,500.0,510.0,480.0,22.0
+Indiana Wesleyan University,525.0,535.0,515.0,24.0
+Oakland City University,480.0,490.0,465.0,21.5
+Purdue University-North Central Campus,475.0,480.0,460.0,20.0
+University of Saint Francis-Fort Wayne,485.0,490.0,475.0,21.0
+Saint Mary-of-the-Woods College,455.0,445.0,455.0,18.5
+Saint Mary's College,555.0,545.0,550.0,25.5
+Taylor University,590.0,580.0,560.0,27.5
+Valparaiso University,545.0,565.0,530.0,26.0
+Coe College,593.0,582.5,559.0,25.5
+Cornell College,595.0,580.0,570.0,26.0
+Dordt College,530.0,565.0,530.0,24.5
+Grand View University,415.0,440.0,400.0,21.0
+Iowa Wesleyan College,460.5,464.0,424.0,21.5
+Luther College,521.5,569.0,520.0,26.0
+Northwestern College,514.0,525.0,490.0,24.0
+Wartburg College,460.0,515.0,450.0,23.5
+Baker University,492.5,545.0,482.5,23.5
+Bethany College,450.0,470.0,425.0,20.5
+Bethel College-North Newton,455.0,500.0,445.0,22.5
+Newman University,535.0,475.0,495.0,23.5
+Ottawa University-Ottawa,460.0,475.0,410.0,22.0
+Southwestern College,473.0,503.0,432.5,22.5
+Sterling College,500.0,455.0,515.0,22.0
+Alice Lloyd College,485.0,495.0,485.0,21.0
+Berea College,570.0,561.5,546.5,24.0
+Campbellsville University,462.5,462.5,460.0,21.0
+Centre College,610.0,620.0,610.0,28.5
+Eastern Kentucky University,500.0,500.0,480.0,21.5
+Kentucky State University,400.0,385.5,381.5,18.0
+Kentucky Wesleyan College,490.0,482.5,555.0,22.0
+Kentucky Christian University,435.0,475.0,410.0,21.0
+University of Louisville,525.0,560.0,525.0,25.0
+Mid-Continent University,425.0,435.0,435.0,19.5
+Midway College,550.0,500.0,530.0,22.0
+Morehead State University,482.5,512.5,480.0,22.0
+Louisiana College,435.0,465.0,430.0,20.5
+Nicholls State University,487.0,544.5,456.0,22.0
+Southern University at New Orleans,535.0,530.0,495.0,16.5
+Tulane University of Louisiana,660.0,660.0,675.0,30.5
+Xavier University of Louisiana,500.0,485.0,475.0,23.0
+Bowdoin College,720.0,715.0,730.0,31.5
+Colby College,665.0,680.0,670.0,30.0
+Husson University,475.0,490.0,475.0,19.0
+University of Maine at Fort Kent,450.0,455.0,450.0,22.5
+University of Maine at Machias,470.0,465.0,450.0,21.5
+University of Maine,535.0,550.0,520.0,23.5
+Maine Maritime Academy,495.0,530.0,480.0,22.0
+University of Southern Maine,500.0,500.0,490.0,22.5
+Thomas College,440.0,455.0,435.0,18.5
+Bowie State University,450.0,435.0,430.0,18.5
+Frostburg State University,480.0,485.0,465.0,20.0
+Hood College,515.0,520.0,505.0,21.5
+Johns Hopkins University,695.0,720.0,705.0,32.0
+University of Maryland-Baltimore County,590.0,620.0,585.0,26.5
+University of Maryland Eastern Shore,440.0,435.0,420.0,17.5
+Morgan State University,450.0,450.0,435.0,17.5
+Mount St Mary's University,550.0,535.0,540.0,20.0
+Salisbury University,575.0,580.0,570.0,24.0
+St Mary's College of Maryland,620.0,595.0,595.0,27.5
+Towson University,535.0,545.0,540.0,23.0
+Stevenson University,490.0,505.0,495.0,20.5
+Washington College,580.0,580.0,560.0,26.5
+American International College,440.0,445.0,435.0,18.5
+Amherst College,715.0,725.0,715.0,32.0
+Bay Path College,490.0,475.0,470.0,20.0
+Becker College,500.0,505.0,476.5,21.5
+Bentley University,585.0,640.0,600.0,28.0
+Boston College,665.0,695.0,685.0,31.5
+Boston University,620.0,665.0,645.0,28.0
+Brandeis University,655.0,695.0,670.0,30.0
+Eastern Nazarene College,480.0,470.0,470.0,20.5
+Emerson College,630.0,600.0,625.0,28.0
+Emmanuel College,545.0,545.0,555.0,23.5
+Endicott College,525.0,545.0,525.0,23.0
+Fitchburg State University,490.0,500.0,480.0,20.0
+Framingham State University,515.0,525.0,515.0,22.0
+Gordon College,584.5,569.0,577.5,25.5
+Harvard University,750.0,755.0,755.0,33.5
+Lesley University,545.0,515.0,540.0,23.5
+Massachusetts Institute of Technology,725.0,775.0,735.0,34.0
+Massachusetts Maritime Academy,505.0,550.0,485.0,22.0
+Mount Ida College,445.0,440.0,440.0,17.5
+Nichols College,460.0,475.0,451.0,21.0
+Northeastern University,685.0,705.0,680.0,31.5
+College of Our Lady of the Elms,470.0,460.0,470.0,19.0
+Simmons College,575.0,570.0,585.0,25.5
+University of Massachusetts-Dartmouth,520.0,540.0,510.0,23.0
+Stonehill College,560.0,570.0,565.0,25.0
+Suffolk University,500.0,510.0,500.0,22.5
+Tufts University,715.0,730.0,725.0,31.5
+Wellesley College,710.0,700.0,715.0,31.0
+Wentworth Institute of Technology,530.0,580.0,515.0,24.0
+Wheelock College,495.0,495.0,495.0,22.0
+Williams College,725.0,720.0,730.0,32.0
+Worcester State University,500.0,515.0,495.0,22.0
+Alma College,505.0,550.0,555.0,24.5
+Andrews University,545.0,525.0,520.0,23.0
+University of Detroit Mercy,545.0,570.0,545.0,25.0
+Eastern Michigan University,505.0,515.0,485.0,21.5
+Cornerstone University,535.0,507.5,523.0,23.5
+Grand Valley State University,530.0,555.0,525.0,23.5
+Kalamazoo College,610.0,615.0,595.0,27.5
+Lake Superior State University,515.0,540.0,515.0,22.5
+Lawrence Technological University,555.0,590.0,535.0,25.0
+Madonna University,555.0,575.0,535.0,22.0
+University of Michigan-Ann Arbor,670.0,710.0,680.0,30.0
+Michigan State University,500.0,620.0,520.0,25.5
+Michigan Technological University,585.0,630.0,552.5,26.5
+University of Michigan-Flint,589.0,586.5,603.0,21.0
+Kuyper College,485.0,510.0,470.0,21.5
+Spring Arbor University,527.5,517.5,510.0,23.0
+Carleton College,705.0,725.0,705.0,31.0
+Concordia University-Saint Paul,515.0,500.0,485.0,21.0
+Hamline University,560.0,550.0,540.0,24.0
+Macalester College,680.0,660.0,675.0,30.5
+University of Minnesota-Twin Cities,620.0,680.0,620.0,28.0
+University of Minnesota-Crookston,460.0,475.0,445.0,21.5
+University of Minnesota-Duluth,525.0,555.0,490.0,24.0
+University of Minnesota-Morris,610.0,585.0,565.0,25.5
+College of Saint Benedict,520.0,539.0,534.0,25.5
+Saint Johns University,542.5,552.5,517.5,25.5
+St Olaf College,650.0,650.0,635.0,28.5
+The College of Saint Scholastica,475.0,465.0,445.0,23.5
+Blue Mountain College,475.0,450.0,490.0,21.5
+Rust College,335.0,380.0,350.0,13.5
+Central Methodist University-College of Liberal Arts and Sciences,445.0,490.0,420.0,21.5
+Drury University,587.5,565.0,535.0,25.0
+Evangel University,520.0,515.0,510.0,22.5
+Fontbonne University,545.0,525.0,515.0,23.0
+Lindenwood University,490.0,525.0,465.0,22.5
+Missouri Valley College,415.0,430.0,430.0,19.5
+College of the Ozarks,535.0,499.0,521.5,22.5
+Stephens College,535.0,495.0,515.0,22.5
+Washington University in St Louis,730.0,755.0,735.0,33.0
+Webster University,575.0,545.0,530.0,24.0
+Westminster College,470.0,540.0,475.0,24.0
+Carroll College,555.0,560.0,540.0,24.0
+Montana Tech of the University of Montana,560.0,580.0,515.0,24.0
+Montana State University,565.0,570.0,545.0,24.0
+The University of Montana,555.0,535.0,530.0,23.5
+Montana State University-Northern,437.5,445.0,427.5,19.5
+Rocky Mountain College,505.0,510.0,492.5,22.0
+Creighton University,580.0,600.0,560.0,27.0
+Doane College-Crete,472.5,492.5,457.5,23.5
+Grace University,432.5,475.5,454.0,21.5
+University of Nevada-Las Vegas,495.0,505.0,475.0,21.5
+University of Nevada-Reno,535.0,540.0,510.0,23.5
+Dartmouth College,725.0,730.0,735.0,32.0
+Franklin Pierce University,485.0,495.0,470.0,18.5
+Plymouth State University,480.0,485.0,470.0,20.5
+Rivier University,465.0,470.0,470.0,19.0
+Saint Anselm College,575.0,570.0,570.0,25.0
+Centenary College,475.0,480.0,470.0,20.5
+Drew University,550.0,555.0,555.0,24.5
+Felician College,435.0,440.0,430.0,19.0
+Monmouth University,520.0,540.0,525.0,23.5
+New Jersey Institute of Technology,535.0,605.0,530.0,25.5
+Princeton University,750.0,755.0,750.0,33.0
+Ramapo College of New Jersey,540.0,560.0,535.0,23.0
+Rider University,515.0,525.0,515.0,22.0
+Saint Peter's University,450.0,465.0,445.0,18.5
+Seton Hall University,550.0,570.0,550.0,24.5
+The Richard Stockton College of New Jersey,525.0,550.0,525.0,22.0
+New Mexico State University-Main Campus,475.0,480.0,460.0,21.0
+Adelphi University,550.0,570.0,560.0,21.5
+Barnard College,675.0,665.0,695.0,30.0
+Clarkson University,570.0,617.5,547.5,26.0
+Columbia University in the City of New York,735.0,745.0,735.0,32.5
+Concordia College-New York,460.0,460.0,447.5,18.0
+Cooper Union for the Advancement of Science and Art,660.0,695.0,670.0,31.0
+Cornell University,690.0,730.0,700.0,32.0
+D'Youville College,530.0,515.0,495.0,22.5
+Dominican College of Blauvelt,450.0,440.0,435.0,20.5
+Fordham University,620.0,635.0,630.0,28.0
+Hamilton College,685.0,700.0,690.0,31.0
+Hartwick College,560.0,560.0,540.0,25.0
+Houghton College,560.0,547.5,535.0,24.5
+LIU Brooklyn,450.0,470.0,445.0,19.5
+LIU Post,480.0,490.0,475.0,21.0
+Manhattan College,530.0,550.0,530.0,25.0
+Marymount Manhattan College,535.0,505.0,530.0,23.5
+Molloy College,520.0,535.0,520.0,22.5
+College of Mount Saint Vincent,460.0,455.0,465.0,20.0
+The College of New Rochelle,485.0,492.5,475.0,23.5
+New York University,670.0,685.0,685.0,30.0
+Polytechnic Institute of New York University,605.0,690.0,600.0,30.0
+Roberts Wesleyan College,520.0,525.0,500.0,22.5
+Rochester Institute of Technology,590.0,625.0,575.0,28.0
+University of Rochester,650.0,700.0,660.0,30.5
+St Bonaventure University,520.0,535.0,510.0,24.0
+St Thomas Aquinas College,470.0,470.0,460.0,18.5
+Siena College,550.0,570.0,535.0,24.5
+Skidmore College,620.0,620.0,630.0,28.0
+Saint Joseph's College-New York,520.0,530.0,510.0,23.0
+Saint John Fisher College,525.0,555.0,510.0,24.5
+SUNY at Binghamton,632.5,670.0,625.0,28.5
+Stony Brook University,600.0,650.0,595.0,28.0
+SUNY College at Brockport,520.0,540.0,500.0,23.5
+State University of New York at New Paltz,560.0,565.0,555.0,25.0
+SUNY Oneonta,540.0,560.0,535.0,23.5
+SUNY at Purchase College,550.0,530.0,545.0,23.5
+SUNY College at Old Westbury,490.0,510.0,475.0,20.5
+SUNY Maritime College,510.0,540.0,495.0,23.0
+Syracuse University,560.0,595.0,575.0,25.5
+Union College,635.0,675.0,640.0,29.5
+Utica College,465.0,475.0,450.0,20.5
+Vassar College,700.0,690.0,705.0,31.5
+Wagner College,580.0,580.0,570.0,24.5
+Wells College,540.0,530.0,510.0,23.5
+Yeshiva University,615.0,620.0,605.0,26.0
+Appalachian State University,570.0,580.0,545.0,26.0
+Barton College,455.0,475.0,435.0,20.0
+Campbell University,517.5,515.0,520.0,22.0
+Chowan University,395.0,390.0,380.0,15.5
+Davidson College,680.0,655.0,660.0,31.0
+Duke University,715.0,740.0,730.0,32.0
+East Carolina University,515.0,535.0,495.0,22.5
+Elizabeth City State University,415.0,435.0,405.0,17.0
+Elon University,610.0,610.0,610.0,24.5
+Fayetteville State University,415.0,435.0,395.0,18.0
+Gardner-Webb University,495.0,515.0,490.0,22.0
+Greensboro College,445.0,460.0,430.0,18.0
+Guilford College,535.0,530.0,515.0,23.0
+High Point University,535.0,550.0,530.0,23.5
+Livingstone College,365.0,365.0,350.0,14.5
+Methodist University,470.0,490.0,445.0,20.5
+North Carolina A & T State University,440.0,460.0,430.0,19.0
+University of North Carolina at Asheville,600.0,595.0,570.0,25.5
+University of North Carolina at Chapel Hill,645.0,660.0,635.0,30.0
+University of North Carolina at Charlotte,520.0,550.0,510.0,22.5
+University of North Carolina at Greensboro,510.0,515.0,490.0,23.0
+North Carolina Central University,425.0,435.0,410.0,17.5
+North Carolina State University at Raleigh,595.0,630.0,570.0,27.5
+University of North Carolina Wilmington,580.0,595.0,560.0,24.0
+University of North Carolina at Pembroke,455.0,470.0,435.0,19.5
+Pfeiffer University,465.0,490.0,450.0,20.0
+Queens University of Charlotte,515.0,525.0,510.0,23.5
+St Andrews University,470.0,490.0,445.0,20.5
+Warren Wilson College,595.0,535.0,565.0,25.0
+Wingate University,495.0,520.0,480.0,21.5
+Winston-Salem State University,440.0,460.0,420.0,17.5
+Western Carolina University,510.0,525.0,485.0,22.0
+Dickinson State University,479.0,455.0,427.5,20.5
+University of North Dakota,530.0,555.0,500.0,23.5
+North Dakota State University-Main Campus,557.5,570.0,515.0,23.5
+Valley City State University,440.0,475.0,410.0,20.5
+Ashland University,490.0,495.0,485.0,22.5
+Bowling Green State University-Main Campus,500.0,505.0,515.0,21.5
+Capital University,535.0,550.0,510.0,24.0
+Case Western Reserve University,660.0,715.0,665.0,31.0
+Cedarville University,590.0,590.0,575.0,26.5
+University of Cincinnati-Main Campus,555.0,575.0,545.0,25.0
+Ohio Christian University,445.0,425.0,425.0,20.0
+University of Dayton,545.0,580.0,545.0,26.5
+The University of Findlay,525.0,530.0,515.0,23.5
+Hiram College,515.0,515.0,495.0,22.0
+John Carroll University,540.0,550.0,540.0,24.5
+Kent State University at Kent,520.0,520.0,505.0,22.5
+Kenyon College,675.0,645.0,680.0,30.0
+Lake Erie College,475.0,490.0,460.0,21.0
+Muskingum University,460.0,480.0,440.0,21.0
+Oberlin College,695.0,667.5,687.5,30.0
+Ohio Dominican University,490.0,530.0,475.0,22.0
+Ohio Northern University,555.0,590.0,560.0,26.0
+Ohio State University-Main Campus,600.0,665.0,605.0,29.0
+Ohio University-Main Campus,540.0,545.0,525.0,24.0
+Ohio Wesleyan University,555.0,565.0,550.0,24.5
+Otterbein University,540.0,537.5,520.0,23.5
+University of Toledo,510.0,530.0,495.0,22.0
+Ursuline College,530.0,530.0,520.0,21.5
+The College of Wooster,610.0,605.0,605.0,27.5
+Xavier University,550.0,560.0,540.0,25.0
+Oklahoma Wesleyan University,465.0,495.0,450.0,21.0
+Oklahoma Christian University,540.0,530.0,505.0,25.0
+Oklahoma City University,555.0,555.0,550.0,26.0
+Southwestern Christian University,497.5,522.5,490.0,20.0
+George Fox University,535.0,535.0,525.0,23.0
+Lewis & Clark College,650.0,625.0,635.0,28.5
+Linfield College-McMinnville Campus,540.0,550.0,520.0,23.5
+Northwest Christian University,492.5,482.5,485.0,20.5
+Oregon Institute of Technology,495.0,520.0,475.0,22.5
+Reed College,705.0,670.0,679.0,30.5
+Corban University,535.0,530.0,509.0,23.0
+Willamette University,600.0,595.0,587.5,26.5
+Bryn Athyn College of the New Church,520.0,505.0,475.0,22.5
+Allegheny College,585.0,595.0,575.0,26.0
+Alvernia University,485.0,495.0,485.0,20.0
+Arcadia University,550.0,539.0,540.0,24.5
+Bloomsburg University of Pennsylvania,485.0,505.0,480.0,21.0
+Bryn Mawr College,655.0,685.0,670.0,29.5
+Bucknell University,630.0,670.0,645.0,29.5
+Cabrini College,445.0,445.0,440.0,20.0
+California University of Pennsylvania,485.0,490.0,460.0,19.0
+Carlow University,480.0,465.0,470.0,20.0
+Carnegie Mellon University,690.0,745.0,700.0,32.0
+Cedar Crest College,475.0,470.0,460.0,20.5
+Chestnut Hill College,485.0,470.0,470.0,21.0
+Delaware Valley College,496.5,505.0,480.0,22.0
+Dickinson College,632.5,645.0,635.0,29.0
+Drexel University,570.0,620.0,575.0,27.0
+Duquesne University,555.0,565.0,550.0,24.5
+Eastern University,525.0,520.0,515.0,21.0
+Edinboro University of Pennsylvania,465.0,465.0,450.0,19.5
+Geneva College,530.0,540.0,510.0,23.0
+Gwynedd Mercy University,475.0,475.0,470.0,19.0
+Haverford College,705.0,695.0,705.0,31.5
+Holy Family University,465.0,470.0,460.0,19.0
+Immaculata University,475.0,470.0,480.0,19.5
+Indiana University of Pennsylvania-Main Campus,485.0,495.0,475.0,19.5
+Keystone College,450.0,450.0,440.0,19.0
+Kutztown University of Pennsylvania,475.0,485.0,465.0,20.0
+La Roche College,460.0,460.0,425.0,20.5
+Lafayette College,620.0,655.0,635.0,29.0
+Lincoln University of Pennsylvania,425.0,430.0,415.0,17.5
+Lock Haven University,460.0,475.0,455.0,20.0
+Lycoming College,515.0,525.0,500.0,23.5
+Mansfield University of Pennsylvania,475.0,485.0,450.0,21.0
+Mercyhurst University,525.0,525.0,510.0,23.5
+Messiah College,570.0,575.0,560.0,26.0
+Millersville University of Pennsylvania,505.0,510.0,490.0,21.5
+Mount Aloysius College,445.0,460.0,437.5,20.0
+Muhlenberg College,620.0,620.0,620.0,28.0
+Neumann University,430.0,430.0,425.0,18.0
+Pennsylvania State University-Penn State Erie-Behrend College,510.0,545.0,490.0,22.0
+Pennsylvania State University-Penn State New Kensington,490.0,500.0,465.0,21.5
+Pennsylvania State University-Penn State Shenango,440.0,450.0,430.0,18.5
+Pennsylvania State University-Penn State Wilkes-Barre,490.0,505.0,455.0,21.0
+Pennsylvania State University-Penn State Worthington Scranton,470.0,470.0,455.0,20.5
+Pennsylvania State University-Penn State Lehigh Valley,490.0,510.0,475.0,23.5
+Pennsylvania State University-Penn State Altoona,485.0,505.0,480.0,21.0
+Pennsylvania State University-Penn State Beaver,475.0,480.0,445.0,20.0
+Pennsylvania State University-Penn State Berks,480.0,505.0,465.0,22.0
+Pennsylvania State University-Penn State Harrisburg,495.0,530.0,485.0,23.0
+Pennsylvania State University-Penn State Brandywine,470.0,500.0,470.0,20.0
+Pennsylvania State University-Penn State Dubois,470.0,480.0,447.5,21.0
+Pennsylvania State University-Penn State Fayette- Eberly,465.0,475.0,445.0,19.5
+Pennsylvania State University-Penn State Hazleton,465.0,480.0,450.0,22.0
+Pennsylvania State University-Main Campus,580.0,615.0,590.0,27.0
+Pennsylvania State University-Penn State Greater Allegheny,465.0,490.0,445.0,21.0
+Pennsylvania State University-Penn State Mont Alto,470.0,487.5,450.0,21.5
+Pennsylvania State University-Penn State Abington,450.0,490.0,450.0,21.0
+Pennsylvania State University-Penn State Schuylkill,422.5,425.0,415.0,19.5
+Pennsylvania State University-Penn State York,475.0,505.0,467.5,23.0
+University of Pennsylvania,715.0,735.0,735.0,32.0
+Philadelphia University,525.0,535.0,520.0,23.0
+University of Pittsburgh-Bradford,475.0,495.0,465.0,21.0
+University of Pittsburgh-Greensburg,500.0,515.0,485.0,22.0
+University of Pittsburgh-Johnstown,500.0,520.0,490.0,22.0
+University of Pittsburgh-Pittsburgh Campus,615.0,640.0,610.0,28.0
+Point Park University,505.0,480.0,495.0,22.0
+Robert Morris University,505.0,535.0,500.0,22.5
+Saint Francis University,485.0,530.0,510.0,22.5
+Saint Joseph's University,550.0,560.0,555.0,24.0
+Saint Vincent College,510.0,520.0,512.5,22.5
+Seton Hill University,510.0,515.0,505.0,22.5
+Shippensburg University of Pennsylvania,485.0,500.0,475.0,20.0
+Slippery Rock University of Pennsylvania,495.0,510.0,485.0,21.0
+Susquehanna University,565.0,560.0,550.0,25.0
+Swarthmore College,720.0,720.0,725.0,32.5
+Temple University,555.0,565.0,555.0,24.5
+Ursinus College,580.0,590.0,585.0,27.0
+Villanova University,640.0,665.0,645.0,30.0
+Westminster College,520.0,515.0,502.5,22.5
+Wilson College,505.0,485.0,495.0,21.5
+York College Pennsylvania,515.0,529.0,500.0,22.5
+Brown University,710.0,725.0,720.0,31.5
+Bryant University,550.0,585.0,545.0,25.0
+Providence College,570.0,585.0,585.0,25.5
+Rhode Island College,465.0,465.0,465.0,19.5
+University of Rhode Island,530.0,540.0,530.0,24.0
+Salve Regina University,550.0,555.0,552.5,24.5
+Anderson University,540.0,530.0,520.0,23.5
+Southern Wesleyan University,470.0,460.0,444.0,18.5
+Citadel Military College of South Carolina,535.0,550.0,505.0,23.0
+Clemson University,610.0,635.0,550.0,28.5
+Columbia International University,550.0,520.0,525.0,22.0
+Francis Marion University,470.0,475.0,445.0,19.5
+Lander University,471.5,470.0,455.0,20.0
+Newberry College,465.0,480.0,435.0,19.5
+North Greenville University,560.0,570.0,550.0,25.0
+University of South Carolina-Aiken,485.0,490.0,465.0,20.5
+Wofford College,580.0,590.0,570.0,26.5
+Black Hills State University,529.0,512.0,459.0,21.0
+Presentation College,425.0,440.0,395.0,20.0
+University of Sioux Falls,430.0,460.0,455.0,23.0
+Bryan College-Dayton,525.0,535.0,520.0,22.5
+Cumberland University,480.0,480.0,475.0,21.0
+Fisk University,425.0,435.0,425.0,17.5
+Lane College,435.0,405.0,660.0,14.5
+University of Memphis,525.0,530.0,515.0,22.0
+Milligan College,531.5,521.5,525.0,24.0
+Sewanee-The University of the South,625.0,605.0,620.0,28.0
+Southern Adventist University,535.0,515.0,525.0,22.5
+Vanderbilt University,740.0,750.0,725.0,33.0
+Abilene Christian University,525.0,545.0,505.0,24.0
+Austin College,600.0,615.0,575.0,25.0
+Baylor University,605.0,620.0,585.0,26.5
+Texas A & M University-Corpus Christi,470.0,495.0,450.0,20.0
+University of Dallas,615.0,595.0,595.0,27.0
+Texas A & M University-Texarkana,485.0,510.0,470.0,21.0
+Hardin-Simmons University,500.0,520.0,480.0,22.5
+Houston Baptist University,525.0,540.0,505.0,24.0
+Lubbock Christian University,500.0,510.0,490.0,21.5
+University of Mary Hardin-Baylor,510.0,530.0,480.0,24.0
+Midwestern State University,490.0,505.0,470.0,21.0
+The University of Texas-Pan American,460.0,490.0,450.0,19.5
+Paul Quinn College,400.0,405.0,435.0,15.5
+Prairie View A & M University,415.0,430.0,405.0,17.5
+Rice University,715.0,745.0,720.0,32.5
+Saint Edward's University,560.0,560.0,545.0,24.0
+University of St Thomas,540.0,565.0,535.5,25.5
+Schreiner University,485.0,500.0,470.0,21.5
+St Mary's University,520.0,530.0,497.5,22.5
+Southern Methodist University,645.0,660.0,635.0,29.0
+Stephen F Austin State University,485.0,505.0,470.0,21.5
+Texas State University,510.0,525.0,490.0,23.0
+Sul Ross State University,425.0,440.0,415.0,18.0
+Tarleton State University,480.0,500.0,455.0,21.0
+Texas A & M University-College Station,575.0,605.0,550.0,26.0
+The University of Texas at Arlington,520.0,560.0,505.0,23.0
+The University of Texas at Austin,610.0,650.0,615.0,28.0
+The University of Texas at Tyler,515.0,544.0,500.0,23.0
+Texas Christian University,580.0,600.0,590.0,27.0
+Texas Lutheran University,505.0,530.0,485.0,22.5
+The University of Texas at San Antonio,510.0,540.0,490.0,22.5
+Texas Southern University,410.0,425.0,395.0,17.0
+Texas Tech University,540.0,570.0,515.0,24.5
+Texas Wesleyan University,505.0,510.0,471.5,20.5
+Texas Woman's University,470.0,485.0,460.0,20.0
+Wayland Baptist University,455.0,470.0,425.0,20.0
+Southern Utah University,520.0,520.0,495.0,23.0
+University of Utah,551.5,574.0,545.0,24.0
+Castleton State College,470.0,485.0,455.0,20.0
+Champlain College,560.0,555.0,545.0,25.0
+Johnson State College,485.0,470.0,470.0,19.0
+Lyndon State College,465.0,465.0,455.0,19.5
+Middlebury College,685.0,690.0,700.0,32.0
+Saint Michael's College,590.0,585.0,580.0,25.5
+College of St Joseph,417.5,427.5,435.0,17.0
+Southern Vermont College,445.0,440.0,439.0,18.0
+Vermont Technical College,465.0,480.0,455.0,18.5
+University of Vermont,590.0,595.0,595.0,26.5
+Averett University,470.0,475.0,430.0,19.5
+Bridgewater College,510.0,520.0,490.0,22.5
+College of William and Mary,690.0,675.0,670.0,30.0
+Emory & Henry College,495.0,505.0,475.0,21.5
+Eastern Mennonite University,500.5,495.0,486.5,21.5
+Ferrum College,440.0,440.0,420.0,17.0
+Hampden-Sydney College,547.5,562.5,527.5,24.5
+Lynchburg College,500.0,500.0,490.0,21.5
+Mary Baldwin College,490.0,455.0,475.0,21.5
+University of Mary Washington,565.0,545.0,545.0,24.0
+Marymount University,520.0,510.0,510.0,22.0
+Norfolk State University,440.0,440.0,420.0,18.0
+Radford University,495.0,495.0,480.0,20.0
+Randolph-Macon College,540.0,540.0,530.0,23.5
+Randolph College,550.0,535.0,535.0,24.5
+University of Richmond,640.0,670.0,645.0,29.5
+Roanoke College,545.0,540.0,535.0,23.5
+Shenandoah University,495.0,510.0,490.0,22.5
+Southern Virginia University,515.0,509.0,496.5,21.5
+The University of Virginia's College at Wise,480.0,475.0,455.0,19.5
+Virginia Commonwealth University,555.0,550.0,540.0,23.5
+University of Virginia-Main Campus,670.0,685.0,670.0,31.0
+Virginia Military Institute,570.0,580.0,545.0,24.5
+Virginia State University,410.0,402.5,400.0,16.5
+Washington and Lee University,695.0,690.0,690.0,31.5
+Central Washington University,490.0,500.0,470.0,20.5
+Eastern Washington University,480.0,490.0,465.0,20.5
+The Evergreen State College,565.0,515.0,525.0,23.5
+Northwest University,540.0,520.0,525.0,23.5
+Pacific Lutheran University,550.0,550.0,530.0,25.0
+University of Puget Sound,620.0,605.0,610.0,27.5
+Saint Martin's University,525.0,540.0,515.0,22.0
+Seattle Pacific University,575.0,560.0,560.0,25.5
+Seattle University,580.0,580.0,575.0,26.5
+Walla Walla University,530.0,530.0,510.0,23.5
+Washington State University,510.0,520.0,495.0,22.0
+University of Washington-Seattle Campus,585.0,645.0,585.0,27.5
+Whitman College,670.0,651.5,654.0,30.0
+Alderson Broaddus University,470.0,490.0,445.0,21.5
+Bethany College,455.0,450.0,430.0,20.5
+Bluefield State College,455.0,425.0,440.0,19.0
+Concord University,480.0,470.0,465.0,21.0
+Marshall University,500.0,485.0,485.0,22.0
+Ohio Valley University,465.0,460.0,455.0,21.0
+West Virginia State University,450.0,425.0,420.0,20.0
+West Liberty University,455.0,480.0,440.0,21.0
+West Virginia Wesleyan College,471.0,498.5,485.0,22.5
+Wheeling Jesuit University,511.5,500.0,499.0,22.0
+Concordia University-Wisconsin,489.5,538.0,444.0,22.5
+Lakeland College,465.0,430.0,435.0,21.5
+Maranatha Baptist University,520.0,480.0,505.0,23.0
+Marquette University,575.0,600.0,575.0,27.0
+Mount Mary University,521.5,529.0,457.5,20.0
+Silver Lake College of the Holy Family,465.5,480.0,435.5,20.0
+University of Wisconsin-Whitewater,525.0,535.0,505.0,22.0
+University of Wisconsin-Madison,590.0,690.0,625.0,28.0
+Stanford University,730.0,745.0,735.0,32.5
+Purdue University-Main Campus,575.0,625.0,575.0,27.0
+New College of Florida,670.0,615.0,635.0,28.5
+University of Washington-Bothell Campus,495.0,525.0,475.0,21.0
+University of Washington-Tacoma Campus,475.0,490.0,460.0,20.0
+Soka University of America,570.0,640.0,585.0,27.0
+Florida Gulf Coast University,510.0,510.0,500.0,22.0
+Ave Maria University,540.0,530.0,530.0,23.0
+University of South Florida-St Petersburg,540.0,530.0,515.0,23.0
+University of South Florida-Sarasota-Manatee,541.0,530.0,530.0,23.5
+The Kingâ€™s College,585.0,555.0,580.0,26.0
