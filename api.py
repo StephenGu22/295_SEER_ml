@@ -26,7 +26,7 @@ def school_predict(s1, s2, s3, s4):
         return 'Error: Invalid input. Score should be in the correct range.'
     score_list = [s1, s2, s3, s4]
     dis = api_college_pred.prediction_school(score_list)[0]
-    return jsonify({'school': dis})
+    return jsonify({'school_id': dis})
 
 @app.route('/major_predict/<int:s1>/<int:s2>/<int:s3>')
 def major_predict(s1, s2, s3):
